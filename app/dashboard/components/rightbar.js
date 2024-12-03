@@ -62,10 +62,10 @@ export default function rightbar() {
             <span>-2°</span>
           </div>
           <div className="flex flex-col backdrop-blur-xl bg-white/15 gap-5 p-1 justify-between items-center rounded-3xl">
-            <span className="backdrop-blur-xl bg-white/15  rounded-full text-gray-500 p-2"><WiDayRainMix size={18}/></span>
+            <span className="backdrop-blur-xl bg-white/15 rounded-full text-white p-2"><WiDayRainMix size={18}/></span>
             <span className="bg-gray-300 border rounded-full text-gray-500 p-2"><WiCloudyWindy size={18}/></span>
-            <span className="backdrop-blur-xl bg-white/15  rounded-full text-gray-500 p-2"><TbSunWind size={18}/></span>
-            <span className="backdrop-blur-xl bg-white/15  rounded-full text-gray-500 p-2"n><TbCloudCog size={18}/></span>
+            <span className="backdrop-blur-xl bg-white/15 rounded-full text-white p-2"><TbSunWind size={18}/></span>
+            <span className="backdrop-blur-xl bg-white/15 rounded-full text-white p-2"n><TbCloudCog size={18}/></span>
           </div>
         </div>
     </div>

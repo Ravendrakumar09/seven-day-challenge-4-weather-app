@@ -7,8 +7,8 @@ import Footer from "./components/footer";
 export default function page() {
   return (
     <div
-      className="flex flex-col bg-cover bg-no-repeat bg-center bg-blue-400"
-      // style={{ backgroundImage: "url('/cloud.jpeg')" }}
+      className="flex flex-col bg-cover bg-no-repeat bg-center"
+      style={{ backgroundImage: "url('/blackCloud.jpg')" }}
     >
       <div>
         <Navbar />
